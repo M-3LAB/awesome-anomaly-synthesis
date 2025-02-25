@@ -1,5 +1,9 @@
 # awesome-anomaly-synthesis
 
+We discuss anomaly synthesis methods in detail. Welcome to read our paper and make comments.
+
+A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.16412)
+
 🔥🔥🔥 Contributions to our repository are welcome. Feel free to categorize the papers.
 
 ## Taxonomy of Industrial Image Anomaly Synthesis
