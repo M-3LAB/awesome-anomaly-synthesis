@@ -67,6 +67,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Diversified and Multi-Class Controllable Industrial Defect Synthesis for Data Augmentation and Transfer [[CVPRW 2023]](https://openaccess.thecvf.com/content/CVPR2023W/VISION/html/Wei_Diversified_and_Multi-Class_Controllable_Industrial_Defect_Synthesis_for_Data_Augmentation_CVPRW_2023_paper.html)
 + RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2403.05897)[[code]](https://github.com/cnulab/RealNet)
 + Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation [[ECCV 2024]](https://csgaobb.github.io/Pub_files/ECCV2024_AnoGen_CR_0730_Mobile.pdf)[[code]](https://github.com/gaobb/AnoGen)
++ Structured guided diffusion models for industrial defect image generation [[KBS 2025]](https://doi.org/10.1016/j.knosys.2025.114642)[[code]](https://github.com/xieyulai/Structured-DGM)
 
 ## Vison Language Models-Based
 ### One-Stage Generation
